@@ -12,4 +12,4 @@ Creado para la subida de ejercicios a entregar correspondiente al Seminario núm
 
 El ejercicio consta de lo siguiente :
 
-- Obtener información de Twitter, para posteriormente mostrar los resultados por pantalla, partiendo de una consultar previa al usuario de ciertos valores a tener en cuenta y todo ello haciendo uso de la API de Twitter estudiada en clase.
+- Obtener información de Twitter, para posteriormente mostrar los resultados por pantalla, partiendo de una consulta previa al usuario de ciertos valores a tener en cuenta y todo ello haciendo uso de la API de Twitter estudiada en clase.
