@@ -1,5 +1,7 @@
 # Seminario_04 - Sistemas Distribuidos
 
+Grado en Ingeniería Informática (Universidad de Cádiz).
+
 Repositorio perteneciente a los alumnos :
 
 - Antonio Miguel Pérez Rivera
