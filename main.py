@@ -20,11 +20,13 @@ twitterext.save_json("almacenados",resultados_busqueda)
 datos = json.loads(open('almacenados.json').read())
 
 for result in datos["statuses"]:
-	if result["geo"]:
-		lat=result["geo"]["coordinates"][0]
-        longt=result["geo"]["coordinates"][1]
-        coord=[lat,longt]
-        lista.append(coord)
+    if result["geo"]:
+    	latitud=result["geo"]["coordinates"][0]
+    	longitud=result["geo"]["coordinates"][1]
+    	coordenadas=[latitud,longitud]
+    	lista.append(coordenadas)
+
+print lista
 
 @app.route("/")
 def mapview():
